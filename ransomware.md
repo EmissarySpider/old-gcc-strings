@@ -24,3 +24,4 @@
 | RHKRC       | GCC: (Debian 11.3.0-1) 11.3.0                | 60d78981694587acad65cdb6c95c1eefe54a452cf297cc843fb328e413025e83 |
 | Rorschach   | GCC: (GNU) 4.4.7 20120313 (Red Hat 4.4.7-23) | 83052cc23c45ecaa09fe5c87fd650c7f8e708aea46756a2b9d452d40ce3b9c00 |
 | Trigona     | GCC: (GNU) 4.4.7 20120313 (Red Hat 4.4.7-23) | 25466ab358cac5763009076f1464a93c67593a81b13a8d6a719614132eda91bc 8090486070bc992b148cfc8f41a3cccb2adef73ce29f12a5e85ba890428111d7 f1e2a7f5fd6ee0c21928b1cae6e66724c4537052f8676feeaa18e84cf3c0c663 |
+| U-Bomb      | GCC: (Alpine 6.4.0) 6.4.0                    | b5d36076c67f46bb3cb96fc778d2df275eaacba33f41ef86d57ba426f3c9d2b4 |
